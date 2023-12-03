@@ -13,6 +13,16 @@
 
 ###
 
+# Hobbies
+<br>💻 Working on Hardware <br/>
+<br>🎮 Gaming </br>
+<br>📖 Writing </br>
+<br>🎵 Listening to music </br>
+<br>🐈‍⬛ My pets </br>
+<br>more to come... </br>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ansible" height="30" alt="ansible logo"  />
   <img width="12" />
@@ -128,7 +138,7 @@
 
 <br clear="both">
 
-<img height="150" src="https://qr-codes-svg.s3.amazonaws.com/x6Rat8.svg?1701608635444"  />
+<img height="150" src="https://qr-codes-svg.s3.amazonaws.com/wMnay1.svg?1701609393849"  />
 
 https://qr.link/x6Rat8
 
