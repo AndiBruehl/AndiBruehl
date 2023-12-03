@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Andreas and I'm a DevOps-Engineer and Fullstack-Developer, from Germany.</h2>
+<h2 align="left">Hi 👋! My name is Andreas and I'm a Junior DevOps-Engineer and Junior Fullstack-Developer, from Germany.</h2>
 
 ###
 
@@ -11,11 +11,10 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"  />
-
 ###
 
 # Hobbies
+<img align="right" height="150" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"  />
 <br>💻 Working on Hardware <br/>
 <br>🎮 Gaming </br>
 <br>📖 Writing </br>
