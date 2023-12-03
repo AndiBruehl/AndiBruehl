@@ -122,10 +122,16 @@
 
 ###
 
+<div align="center">
+
+<h2 align="left">My Portfolio-Website...</h2>
+
 <br clear="both">
 
-<img align="center" height="150" src="https://qr-codes-svg.s3.amazonaws.com/x6Rat8.svg?1701608635444"  />
+<img height="150" src="https://qr-codes-svg.s3.amazonaws.com/x6Rat8.svg?1701608635444"  />
 
 https://qr.link/x6Rat8
+
+</div>
 
 ###
