@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
-<img src="https://cdn.simpleicons.org/archlinux" height="30" alt="archlinux logo"  />
+  <img src="https://cdn.simpleicons.org/archlinux" height="30" alt="archlinux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
   <img width="12" />
