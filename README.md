@@ -120,4 +120,8 @@
 
 <img src="https://raw.githubusercontent.com/AndiBruehl/AndiBruehl/output/snake.svg" alt="Snake animation" />
 
+<br clear="both">
+
+<img align="right" height="150" src="https://qr-codes-svg.s3.amazonaws.com/x6Rat8.svg?1701608635444"  />
+
 ###
