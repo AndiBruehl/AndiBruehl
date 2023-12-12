@@ -145,7 +145,7 @@
 
 <br clear="both">
 
-<a href="andibruehl.github.io/my-portfolio" alt="Link Portfolio" />
+<a href="https://andibruehl.github.io/my-portfolio">Link zu meinem Portfolio</a>
 
 </div>
 
