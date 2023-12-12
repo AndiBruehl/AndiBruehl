@@ -145,9 +145,7 @@
 
 <br clear="both">
 
-<img height="150" src="https://qr-codes-svg.s3.amazonaws.com/wMnay1.svg?1701609393849"  />
-
-https://qr.link/x6Rat8
+<a href="andibruehl.github.io/my-portfolio" alt="Link Portfolio" />
 
 </div>
 
