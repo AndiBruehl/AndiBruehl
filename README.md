@@ -15,9 +15,9 @@
 
 # Hobbies
 <img align="right" height="150" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"  />
-<br>💻 Working on Hardware <br/>
-<br>🎮 Gaming </br>
-<br>📖 Writing </br>
+<br>💻 Working on Hardware -  Repairing and Optimizing<br/>
+<br>🎮 Gaming - mostly on PC </br>
+<br>📖 Writing - under the pseudonym "Michael Jeremy Hard"</br>
 <br>🎵 Listening to music </br>
 <br>🐈‍⬛ My pets </br>
 <br>more to come... </br>
