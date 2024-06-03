@@ -140,15 +140,3 @@
 <img src="https://raw.githubusercontent.com/AndiBruehl/AndiBruehl/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-
-<h2 align="left">My Portfolio-Website...</h2>
-
-<br clear="both">
-
-<a href="https://andibruehl.github.io/my-portfolio">Link zu meinem Portfolio</a>
-
-</div>
-
-###
