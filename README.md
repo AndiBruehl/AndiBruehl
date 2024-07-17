@@ -24,7 +24,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.icons8.com/?size=256&id=SJNUZD3A4el4&format=png" height="30" alt="ansible logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=256&id=33039&format=png" height="30" alt="amazonwebservices logo"  />
