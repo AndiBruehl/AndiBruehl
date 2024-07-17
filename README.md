@@ -55,7 +55,7 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=256&id=20906&format=png" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img src="https://img.icons8.com/?size=256&id=12598&format=png" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
   <img width="12" />
