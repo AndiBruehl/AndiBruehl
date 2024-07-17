@@ -114,6 +114,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=windows" height="30" alt="windows logo"  />
+
+  <img src="https://img.icons8.com/?size=256&id=TuXN3JNUBGOT&format=png" height="30" alt="windows logo"  />
+
 </div>
 
 ###
