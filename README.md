@@ -33,6 +33,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/CachyOS_Logo.svg" height="30" alt="CachyOS logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/centos" height="30" alt="centos logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
