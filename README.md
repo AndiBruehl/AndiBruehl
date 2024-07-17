@@ -79,7 +79,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mxlinux" height="30" alt="mxlinux logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-mx-linux-9132658-7417087.png?f=webp&w=256" height="30" alt="mxlinux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
   <img width="12" />
