@@ -93,7 +93,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="putty logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img src="https://img.icons8.com/?size=256&id=13441&format=png" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
   <img width="12" />
@@ -103,9 +103,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" alt="stackoverflow logo"  />
+  <img src="https://img.icons8.com/?size=256&id=13955&format=png" height="30" alt="stackoverflow logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=svg" height="30" alt="svg logo"  />
+  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/svg-11-81433.png?f=webp&w=256" height="30" alt="svg logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
   <img width="12" />
