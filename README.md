@@ -25,7 +25,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ansible" height="30" alt="ansible logo"  />
+  <img src="https://img.icons8.com/?size=256&id=SJNUZD3A4el4&format=png" height="30" alt="ansible logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=256&id=33039&format=png" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -53,7 +53,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://img.icons8.com/?size=256&id=12598&format=png" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="12" />
@@ -65,7 +65,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" height="30" alt="jenkins logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
   <img width="12" />
