@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/archlinux" height="30" alt="archlinux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
+  <img src="https://img.icons8.com/?size=256&id=50ZQHdJTmPqw&format=png" height="30" alt="bash logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/CachyOS_Logo.svg" height="30" alt="CachyOS logo"  />
   <img width="12" />
