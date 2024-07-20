@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Andreas and I'm a Junior DevOps-Engineer and Junior Fullstack-Developer, from Germany.</h2>
+<h2 align="left">Hi 👋! My name is Andreas and I'm a Junior Fullstack-Developer and Junior DevOps-Engineer, from Germany.</h2>
 
 ###
 
