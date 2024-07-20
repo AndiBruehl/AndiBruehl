@@ -97,6 +97,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo" style="margin-bottom: 10px;" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" style="margin-bottom: 10px;" />
+    <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="30" alt="react-native logo" style="margin-bottom: 10px;" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo" style="margin-bottom: 10px;" />
   <img width="12" />
