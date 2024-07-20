@@ -23,6 +23,8 @@
 <br>more to come... </br>
 
 ###
+Tools and Technologies I have worked with in the past...
+###
 <div align="center">
   <img src="https://img.icons8.com/?size=256&id=SJNUZD3A4el4&format=png" height="30" alt="ansible logo" style="margin-bottom: 10px;" />
   <img width="12" />
